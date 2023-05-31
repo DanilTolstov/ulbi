@@ -1,0 +1,8 @@
+{
+  "name": "ulbi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanilTolstov/ulbi.git",
+  "author": "Danil Tolstov",
+  "license": "MIT"
+}
